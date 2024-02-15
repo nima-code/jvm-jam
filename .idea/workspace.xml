@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c28f97-45a5-4214-837c-c5a14636252e" name="Changes" comment="Added Files">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="91c28f97-45a5-4214-837c-c5a14636252e" name="Changes" comment="Amended from code changes">
       <change afterPath="$PROJECT_DIR$/src/main/groovy/com/nuge/GroovyInterface.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nuge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/nuge/KotlinInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GroovyClass.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,15 +50,49 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/nikechukwu/Desktop/projects/nima/jvm-jam",
     "onboarding.tips.debug.path": "/Users/nikechukwu/Desktop/projects/nima/jvm-jam/src/main/java/com/nuge/Main.java",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.3"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GroovyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nuge.GroovyClass" />
+      <module name="jvmjam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nuge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nuge.Main" />
+      <module name="jvmjam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nuge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GroovyClass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,14 +126,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707967209174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Files">
+      <option name="closed" value="true" />
+      <created>1707967265724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707967265724</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Amended from code changes">
+      <option name="closed" value="true" />
+      <created>1707967278151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707967278151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Added Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Files" />
+    <MESSAGE value="Amended from code changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amended from code changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
